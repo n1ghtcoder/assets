@@ -1,0 +1,49 @@
+{
+    "name": "Zenfuse",
+    "type": "POLYGON",
+    "symbol": "ZEFU",
+    "decimals": 18,
+    "website": "https://zenfuse.io",
+    "description": "The ultimate solution for cryptocurrency trading with built-in connectivity to major exchanges, a next-gen toolset, analytics, portfolio management, news aggregation, set within an ecosystem extensible by developers.",
+    "explorer": "https://polygonscan.com/token/0xe3b5af3f5233cb2f142d8ce1a4e262a568559550",
+    "status": "active",
+    "id": "0xE3B5Af3f5233Cb2F142D8cE1A4e262A568559550",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/zenfuse"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/zenfuse"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zenfuse_io"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/zenfuse"
+        },
+        {
+            "name": "youtube",
+            "url": "https://www.youtube.com/c/Zenfuse"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/zenfuse"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/BQv588saru"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/zenfuse"
+        },
+        {
+            "name": "instagram",
+            "url": "https://www.instagram.com/zenfuse.io"
+        }
+    ]
+}
